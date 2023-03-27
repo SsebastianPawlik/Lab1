@@ -5,3 +5,7 @@
 | Forma | Laboratorium | Prowadzący |
 | Przedmiot | Projektowanie aplikacji internetowych | inż. Grzegorz Petri |
 | Autor | Sebastian Pawlik | 029236 |
+
+
+Opcja przetestowanai strony bez koieczności jej pobierania 
+https://ssebastianpawlik.github.io/Lab1/
